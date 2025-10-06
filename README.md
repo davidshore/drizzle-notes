@@ -5,7 +5,7 @@ Du ska spara, läsa och visa data från en **SQLite-databas** via Drizzle.
 
 ---
 
-## 🎯 Mål
+## Mål
 
 Efter uppgiften ska du kunna:
 
@@ -16,7 +16,7 @@ Efter uppgiften ska du kunna:
 
 ---
 
-## 🧰 Förberedelser
+## Förberedelser
 
 Skapa ett nytt tanstack projekt och installera drizzle:
 
@@ -29,7 +29,7 @@ npm install -D drizzle-kit
 
 ---
 
-## 🗄️ Steg 1: Skapa en databas och tabell
+## Steg 1: Skapa en databas och tabell
 
 Skapa en mapp `db/` och en fil `schema.ts`.  
 Definiera en enkel tabell `notes` med följande kolumner:
