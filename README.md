@@ -39,6 +39,8 @@ Definiera en enkel tabell `notes` med följande kolumner:
 - `content` (text)
 - `createdAt` (datum)
 
+se denna tutorial för att skapa `schema.ts`: [https://orm.drizzle.team/docs/get-started/sqlite-new](https://orm.drizzle.team/docs/get-started/sqlite-new)
+
 Skapa sedan en `db.ts` som:
 
 - Initierar `better-sqlite3`
