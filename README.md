@@ -21,7 +21,7 @@ Efter uppgiften ska du kunna:
 Skapa ett nytt tanstack projekt och installera drizzle:
 
 ```bash
-npm create @tanstack/start@latest my-drizzle-app --add-ons tanstack-query
+npm create @tanstack/start@latest my-drizzle-app --  --add-ons tanstack-query
 cd my-drizzle-app
 npm install drizzle-orm better-sqlite3
 npm install -D drizzle-kit
